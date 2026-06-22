@@ -16,41 +16,38 @@ El juego no requiere instalación. Solo necesitas el archivo principal compilado
 Elige uno de los siguientes métodos para jugar:
 
 ### Método 1: Ejecución rápida
-1. Descarga la carpeta Fake code en tu equipo o dispositivo
-2. ingresa a la carpeta fake code, luego a la carpeta demo
-3. Ingresa a la carpeta target, posteriormente vas a encontrar el archivo Fake_Code.jar, haz clic en el archivo y podrás acceder al juego
+1. Descarga la carpeta **Fake Code** en tu equipo o dispositivo.
+2. Ingresa a la carpeta `Fake Code`, luego a la carpeta `demo`.
+3. Ingresa a la carpeta `target`. Posteriormente vas a encontrar el archivo `Fake_Code.jar`, haz doble clic en el archivo y podrás acceder al juego.
 
-### 🕹️ Controles del Juego
-[Mouse]: Clic en la respuesta para avanzar a la siguiente pregunta.
+## 🕹️ Controles del Juego
+* **[Mouse]:** Clic en la respuesta para avanzar a la siguiente pregunta.
+* **[Menú]:** Minimizar / Maximizar / Salir.
 
-[Menú]: Minimizar / Maximizar / Salir.
-
-### Dinamica del juego
+## 🎲 Dinámica del juego
 
 1. **Pantalla Principal:** Al iniciar, verás el menú principal. Responde la primera pregunta para comenzar.
    
-     *<img src="img/1.png" width="400" height="400">*
+   <img src="img/1.png" width="400" height="400" alt="Pantalla Principal">
 
 2. **Resolución de preguntas:** Lee detenidamente la pregunta de código. Haz clic sobre la opción correcta para avanzar al siguiente nivel.
    
-    *<img src="img/2.png" width="400" height="400">*
+   <img src="img/2.png" width="400" height="400" alt="Resolución de preguntas">
 
-4. **Fin del juego:** Si respondes incorrectamente, el juego terminará y deberás iniciar nuevamente.
+3. **Fin del juego:** Si respondes incorrectamente, el juego terminará y deberás iniciar nuevamente.
 
-    *<img src="img/3.png" width="400" height="400">*
+   <img src="img/3.png" width="400" height="400" alt="Fin del juego">
 
+## 🛠️ Tecnologías Utilizadas
+* **Lenguaje:** Java
+* **Desarrollo y Herramientas:** JavaFX, Maven, CSS, JUnit, Javadoc
 
+## 👨‍💻 Autores 
+* Adrian Felipe Aguilar
+* Cristian Andrés Alarcón
+* Diego Marino Acevedo
+* Juan José Arcila
+* Mateo Acevedo Benjumea
 
-### 🛠️ Tecnologías Utilizadas
-Lenguaje: Java
-Desarrollo: Java Fx - Fx Maven - CSS - Gunit - Javadoc
-
-### 👨‍💻 Autores 
-[Adrian_Felipe_Aguilar]
-[Cristian_Andres_Alarcon]
-[Diego_Marino_Acevedo]
-[Juan_Jose_Arcila]
-[Mateo_Acevedo_Benjumea]
-
-
+---
 ¡Gracias por jugar Fake Code! Si encuentras algún error o tienes una sugerencia, no dudes en reportarlo.
