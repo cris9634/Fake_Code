@@ -33,11 +33,11 @@ Elige uno de los siguientes métodos para jugar:
 
 2. **Resolución de preguntas:** Lee detenidamente la pregunta de código. Haz clic sobre la opción correcta para avanzar al siguiente nivel.
    
-    *<img src="img/2.png" width="400">*
+    *<img src="img/2.png" width="400" height="400">*
 
 4. **Fin del juego:** Si respondes incorrectamente, el juego terminará y deberás iniciar nuevamente.
 
-    *<img src="img/3.png" width="400">*
+    *<img src="img/3.png" width="400" height="400">*
 
 
 
