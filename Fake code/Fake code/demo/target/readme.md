@@ -29,18 +29,18 @@ Elige uno de los siguientes métodos para jugar:
 
 1. **Pantalla Principal:** Al iniciar, verás el menú principal. Responde la primera pregunta para comenzar.
    
-   ![Menú principal](img/1.png)
-    *(O usando HTML si es muy grande: <img src="img/1.png" width="400">)*
+    [Menú principal]
+    *<img src="img/1.png" width="400">*
 
 2. **Resolución de preguntas:** Lee detenidamente la pregunta de código. Haz clic sobre la opción correcta para avanzar al siguiente nivel.
 
-   ![Pantalla de juego](img/2.png)
-    *(O usando HTML si es muy grande: <img src="img/2.png" width="400">)*
+    [Pantalla de juego]
+    *<img src="img/2.png" width="400">*
 
 3. **Fin del juego:** Si respondes incorrectamente, el juego terminará y deberás iniciar nuevamente.
 
-    [Fin del juego](img/3.png)
-    *(O usando HTML si es muy grande: <img src="img/3.png" width="400">)*
+    [Fin del juego]
+    *<img src="img/3.png" width="400">*
 
 
 
